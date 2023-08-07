@@ -134,7 +134,7 @@ def main():
             break
         balance += spin(balance)
     
-    print(f"ypu left with ${balance}")
+    print(f"you left with ${balance}")
     
   
 main()
